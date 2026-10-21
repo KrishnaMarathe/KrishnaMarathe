@@ -18,6 +18,10 @@ The [project README](https://github.com/KrishnaMarathe/5crest-realty#readme) has
 
 I'm developing a private prototype that processes camera footage with Python, OpenCV, and object detection, then presents events through a FastAPI backend and React interface. I'm keeping the code private while I review its demo accounts, deployment settings, and sample media before sharing any public version.
 
+### Scientific Collaboration Network Analyzer · Team project
+
+I contributed to the backend, frontend, and database of a group project for exploring relationships between researchers, publications, and institutions. The repository is private while we finish the analysis features and document the team's contributions.
+
 ## What I'm exploring
 
 I'm learning how to turn raw data into useful views and explanations. I plan to publish an analysis project once I have a complete, reproducible example to show.
