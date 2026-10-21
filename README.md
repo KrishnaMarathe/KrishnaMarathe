@@ -1,8 +1,8 @@
 # Krishna Marathe
 
-**Full-stack developer · Interested in data analysis**
+**Full-stack developer · Exploring data analysis and computer vision**
 
-I enjoy building applications end to end, from the interface people use to the APIs and data behind it. My latest public project is a real-estate platform for South Bombay.
+I like working across the whole application: the interface, API, database, and the details that make them fit together. My public work currently focuses on web development; I'm also working on data and video analysis projects.
 
 ## Featured work
 
@@ -14,6 +14,10 @@ A full-stack project for discovering properties, saving favourites, sending enqu
 
 The [project README](https://github.com/KrishnaMarathe/5crest-realty#readme) has the feature breakdown and local setup.
 
+### Intelligent video analytics prototype
+
+I'm developing a private prototype that processes camera footage with Python, OpenCV, and object detection, then presents events through a FastAPI backend and React interface. I'm keeping the code private while I review its demo accounts, deployment settings, and sample media before sharing any public version.
+
 ## What I'm exploring
 
-I'm interested in data analysis and plan to share my analysis projects here as I complete them.
+I'm learning how to turn raw data into useful views and explanations. I plan to publish an analysis project once I have a complete, reproducible example to show.
